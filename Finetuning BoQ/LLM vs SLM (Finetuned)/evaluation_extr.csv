@@ -1,0 +1,241 @@
+BOQ_TEXT,CLEAN_JSON,Ground_Truth,SCORE,VERDICT
+"Earthwork in excavation of foundation trenches or drains, in all sorts of soil (including soil mixed with garbage/ heterogenic soil but excluding laterite or sandstone) including removing, spreading or stacking the spoils within a lead of 75mtr. as directed. The item includes necessary trimming the sides of trenches, leveling, dressing and ramming the bottom, bailing out of water etc. as required complete. Depth of excavation not exceeding 1500mm.","{""item"": ""Earthwork - Excavation - Foundation Trenches or Drains"", ""attributes"": {""classification"": ""First Grade"", ""material"": ""All sorts of soil (including soil mixed with garbage/heterogenic soil)"", ""quantity_unit"": ""m³"", ""unit_price"": ""NIL"", ""dimensions"": ""Depth: 0 - 1.5m, Length: 75m, Width: N/A, Height: N/A, Thickness: N/A, Area: N/A, finish: rough""}}","{  ""item"": ""Earthwork excavation"",  ""attributes"": {    ""material"": ""soil"",    ""work_type"": ""excavation"",    ""location"": ""foundation trenches or drains"",    ""work_category"": ""earthwork"",    ""quantity_unit"": ""m³"",    ""depth"": ""up to 1500mm"",    ""lead"": ""75m""  }}",9.0,Correct
+Surface Dressing of the ground in any kind of soil including removing vegetation inequalities not exceeding 15 cm depth and disposal of the rubbish within a lead upto 75 m as directed,"{
+  ""item"": ""surface dressing"",
+  ""attributes"": {
+     ""depth"": ""15cm"",
+     ""location"": ""ground"",
+     ""work_type"": ""removal"",
+     ""disposal"": ""lead-up to 75m""
+   }
+}","{  ""item"": ""Surface dressing"",  ""attributes"": {    ""work_type"": ""surface dressing"",    ""work_category"": ""earthwork"",    ""material"": ""soil"",    ""location"": ""ground surface"",    ""depth"": ""up to 150mm"",    ""lead"": ""up to 75m""  }}",8.0,Correct
+"Supplying at site or stackyard or as directed PCC (1:2:4) Fencing Post 215 cm x 150 mm x 150 mm section at bottom, 100 mm x 100 mm section at top with T-Base 300 mm x 150 mm x 100 mm, having 4 nos 6 mm dia vertical M.s. reinforcement and 6 mm dia binders @ 200 mm centres, finished smooth etc. complete.","{""item"": ""Fencing Post"", ""attributes"": {""length"": ""215 cm"", ""thickness_bottom"": ""150 mm"", ""thickness_top"": ""100 mm"", ""dimensions_base"": ""300 mm x 150 mm x 100 mm"", ""reinforcement"": ""4 nos 6 mm dia vertical M.s. reinforcement, 6 mm dia binders @ 200 mm centres"", ""finish"": ""smooth""}}","{  ""item"": ""Fencing post (PCC)"",  ""attributes"": {    ""work_type"": ""manufacture/supply of precast post"",    ""material"": ""PCC"",    ""mix_ratio"": ""1:2:4"",    ""shape"": ""tapered rectangular post with base"",    ""length"": ""215 cm"",    ""dimensions"": {      ""bottom_section"": ""150 mm x 150 mm"",      ""top_section"": ""100 mm x 100 mm"",      ""base"": ""300 mm x 150 mm x 100 mm""    },    ""reinforcement"": ""steel reinforcement provided"",    ""finish"": ""smooth finish"",    ""location"": ""site or stackyard""  }}",8.0,Correct
+"Galvanised iron sheet eaves gutter fitted and fixed with necessary 50 mm X 6 mm M.S flat bar clamps bent to design, bolts, nuts, washers etc. complete. Eaves gutter made of 0.63 mm. sheets.(300mm End lapping) 225 mm","{
+  ""item"": ""Eaves gutter"",
+  ""attributes"": {
+     ""thickness"": ""0.63 mm"",
+     ""material"": ""Galvanised iron"",
+     ""dimensions"": ""Length= ?, Width= 225mm, Height= ?, Thickness= 50mm x 6mm"",
+     ""fixing"": ""M.S. flat bar clamps, bolts, nuts, washers""
+   }
+}","{  ""item"": ""GI sheet eaves gutter"",  ""attributes"": {    ""material"": ""galvanised iron sheet"",    ""work_type"": ""supply and fixing"",    ""thickness"": ""0.63 mm"",    ""width"": ""225 mm"",    ""end_lapping"": ""300 mm"",    ""fixing_arrangement"": ""50 mm x 6 mm M.S. flat bar clamps with bolts, nuts and washers""  }}",8.0,Partial
+"Asbestos corrugated (Trafford or similar approved quality) sheet (6 mm. thick) work (excluding the supporting framework) fitted & fixed with 9.5mm. dia J or L hook-bolt and nuts, limpet and bitumen washers and putty with 150mm. end lap & one corrugation minimum side lap complete","{ ""item"": ""Asbestos corrugated"", ""attributes"": { ""thickness"": ""6 mm."", ""fixing"": ""9.5mm. dia J or L hook-bolt and nuts, limpet and bitumen washers"", ""lap"": ""150mm. end lap & one corrugation minimum side lap complete"" }}","{  ""item"": ""Asbestos corrugated sheet work"",  ""attributes"": {    ""material"": ""asbestos corrugated sheet (6 mm thick)"",    ""work_type"": ""supply and fixing (excluding framework)"",    ""fixing"": ""9.5 mm dia J or L hook bolts with nuts, limpet and bitumen washers, putty"",    ""lap"": ""150 mm end lap and minimum one corrugation side lap""  }}  ",8.0,Correct
+"Supplying, fitting and fixing 20 mm. to 37 mm. thick chunar / Mirzapur / Dholpur slab in floor set in 20 mm thick (avg.) cement mortar (1:4) bed and pointing with cement mortar (1:2) (cement 1, stone dust 2) with admixture of pigment matching the stone shades, rough chisel dressed all complete as per direction of Engg.-in-Charge (Using cement slurry for bedding @ 4.4kg/Sqm. land jointing @ 2.4 kg/ Sqm.)","{
+  ""item"": ""slab"",
+  ""attributes"": {
+     ""thickness"": ""20 mm to 37 mm"",
+     ""material"": ""chunar / Mirzapur / Dholpur"",
+     ""mortar"": ""cement mortar (1:4)"",
+     ""work_type"": ""floor set"",
+     ""admixtures"": ""pigment matching the stone shades"",
+     ""finish"": ""rough chisel dressed"",
+     ""location"": ""land jointing @ 2.4 kg/Sqm.""
+   }
+}","{  ""item"": ""Stone slab flooring work"",  ""attributes"": {    ""material"": ""Chunar / Mirzapur / Dholpur stone slab"",    ""work_type"": ""supplying, fitting and fixing in flooring"",    ""thickness"": ""20 mm to 37 mm"",    ""bed_mortar"": ""cement mortar (1:4)"",    ""jointing_mortar"": ""cement mortar (1:2 with stone dust)"",    ""bed_slurry"": ""cement slurry for bedding"",    ""slurry_consumption"": ""4.4 kg/sqm (bedding), 2.4 kg/sqm (jointing)"",    ""finish"": ""rough chisel dressed"",    ""admixture"": ""pigment matching stone shade"",    ""location"": ""floor""  }}",8.0,Partial
+"Work type Supplying, fitting and fixing Black Stone slab used in Kitchen slab, alcove, wardrobe etc. laid and jointed with necessary adhesive Cement ,mortar ratio (1:2) ,including grinding or polishing as per direction of Engineer-in -Charge in Ground Floor. Thickness 25 mm.","{""item"": ""Black Stone slab"", ""attributes"": {""material"": ""Black Stone"", ""work_type"": ""Supplying"", ""fitting_and_fixing"": ""laid and jointed"", ""adhesive"": ""Cement"", ""mortar_ratio"": ""1:2"", ""finish"": ""ground floor"", ""operation"": ""grinding or polishing""}}","{  ""item"": ""Black stone slab work"",  ""attributes"": {    ""material"": ""black stone slab"",    ""work_type"": ""supplying, fitting and fixing"",    ""application"": ""kitchen slab / alcove / wardrobe"",    ""thickness"": ""25 mm"",    ""mortar"": ""cement mortar (1:2) with adhesive"",    ""finish"": ""grinding or polishing"",    ""location"": ""ground floor""  }}",8.0,Correct
+"Neat cement punning about 1.5mm thick in wall, Grade M30, location window sill, floor etc.","{
+  ""item"": ""cement"",
+  ""attributes"": {
+    ""thickness"": ""1.5mm"",
+    ""grade"": ""M30"",
+    ""form_location"": ""window sill, floor etc.""
+  }
+}","{  ""item"": ""Neat cement punning"",  ""attributes"": {    ""work_type"": ""punning"",    ""material"": ""cement"",    ""thickness"": ""about 1.5 mm"",    ""grade"": ""M30"",    ""location"": ""walls, window sill, floor etc.""  }",9.0,Correct
+125mm thick brick work with 1st class bricks in cement mortar (1:4) in any floor.,"{
+  ""item"": ""brickwork"",
+  ""attributes"": {
+     ""thickness"": ""125mm"",
+     ""material"": ""1st class bricks"",
+     ""mortar"": ""1:4"",
+     ""location"": ""any floor""
+   }
+}","{  ""item"": ""Brickwork"",  ""attributes"": {    ""work_type"": ""brick masonry"",    ""material"": ""first class bricks"",    ""thickness"": ""125 mm"",    ""mortar"": ""cement mortar (1:4)"",    ""location"": ""any floor""  }}",9.0,Correct
+"75 mm thick ,work type brick work, with 1st class bricks set in cement, sand morter (1:4) in ground floor including H.B. netting in every alternate layer in any floor.","{
+  ""item"": ""Brickwork"",
+  ""attributes"": {
+     ""thickness"": ""75mm"",
+     ""material"": ""1st class bricks"",
+     ""work_type"": ""brick work"",
+     ""masonry"": ""cement, sand mortar (1:4)"",
+     ""location"": ""ground floor"",
+     ""construction_detail"": ""H.B. netting in every alternate layer""
+   }
+}","{  ""item"": ""Brickwork"",  ""attributes"": {    ""thickness"": ""75mm"",    ""material"": ""1st class bricks"",    ""work_type"": ""brick work"",    ""masonry"": ""cement sand mortar (1:4)"",    ""location"": ""ground floor / any floor"",    ""construction_detail"": ""H.B. netting in every alternate layer""  }}",10.0,Correct
+"Providing and fixing precast cement concrete kerbs of M20 grade, size 450 mm x 350 mm x 150 mm with bevelled nosing, joint filling using 10 mm thick cement mortar (1:4), including curing for 3 days complete.","{""item"": ""precast cement concrete kerbs"", ""attributes"": {""grade"": ""M20"", ""dimensions"": ""450mm x 350mm x 150mm"", ""work_type"": ""providing and fixing"" ""finish"": ""bevelled"", ""mortar"": ""1:4, 10mm thick"", ""curing"": ""3 days""}}","{
+  ""item"": ""precast cement concrete kerbs"",
+  ""attributes"": {
+    ""grade"": ""M20"",
+    ""dimensions"": ""450mm x 350mm x 150mm"",
+    ""finish"": ""bevelled nosing"",
+    ""mortar"": ""1:4, 10mm thick"",
+    ""curing"": ""3 days"",
+    ""work_type"": ""providing and fixing"",
+    ""material"": ""cement concrete""
+  }
+}",9.0,Correct
+Cement mortar flooring grade M30 20 mm thick in 1:4 mix including smooth finishing and curing for 3 days.,"{
+  ""item"": ""Cement"",
+  ""attributes"": {
+    ""work_type"": ""flooring"",
+    ""material"": ""cement mortar"",
+    ""grade"": ""M30"",
+    ""thickness"": ""20 mm"",
+    ""mix_ratio"": ""1:4"",
+    ""finish"": ""smooth"",
+    ""curing"": ""3 days""
+  }
+}","{
+  ""item"": ""Cement"",
+  ""attributes"": {
+    ""work_type"": ""flooring"",
+    ""material"": ""cement mortar"",
+    ""grade"": ""M30"",
+    ""thickness"": ""20 mm"",
+    ""mix_ratio"": ""1:4"",
+    ""finish"": ""smooth"",
+    ""curing"": ""3 days""
+  }
+}",10.0,Correct
+Cement mortar flooring grade M20 25 mm thick in 1:3 mix including smooth finishing and curing for 5 days.,"{
+  ""item"": ""Cement"",
+  ""attributes"": {
+    ""work_type"": ""flooring"",
+    ""material"": ""cement mortar"",
+    ""grade"": ""M20"",
+    ""thickness"": ""25 mm"",
+    ""mix_ratio"": ""1:3"",
+    ""finish"": ""smooth"",
+    ""curing"": ""5 days""
+  }
+}","{
+  ""item"": ""Cement"",
+  ""attributes"": {
+    ""work_type"": ""flooring"",
+    ""material"": ""cement mortar"",
+    ""grade"": ""M20"",
+    ""thickness"": ""25 mm"",
+    ""mix_ratio"": ""1:3"",
+    ""finish"": ""smooth"",
+    ""curing"": ""5 days""
+  }
+}",10.0,Correct
+Earthwork in excavation in all types of soil up to 1.5m depth including disposal within 50m lead.,"{
+  ""item"": ""excavation"",
+  ""attributes"": {
+    ""material"": ""earthwork"",
+    ""depth"": ""1.5m"",
+    ""soil_type"": ""all types"",
+    ""location"": ""disposal within 50m lead""
+  }
+}","{
+  ""item"": ""Earthwork excavation"",
+  ""attributes"": {
+    ""work_type"": ""excavation"",
+    ""material"": ""all types of soil"",
+    ""depth"": ""up to 1.5 m"",
+    ""location"": ""within 50 m"",
+  }
+}",8.0,Partial
+Brick edging 75mm wide with picked jhama bricks laid true to line and level with sand filling and ramming.,"{ ""item"": ""paved footpath"", ""attributes"": { ""width"": ""75mm"", ""material"": ""picked jhama bricks"", ""finish"": ""true to line and level"", ""filling"": ""sand"", ""ramming"": ""yes"" }}","{
+  ""item"": ""Brick edging"",
+  ""attributes"": {
+    ""work_type"": ""edging"",
+    ""material"": ""picked jhama bricks"",
+    ""width"": ""75 mm"",    
+    ""filling"" : ""sand""  
+    ""location"": ""laid true to line and level with sand filling and ramming""
+  }
+}",8.0,Partial
+"PVC false ceiling with 40x20mm steel frame, 18 gauge, 150mm PVC panels, painted red oxide.","{
+  ""item"": ""false ceiling"",
+  ""attributes"": {
+    ""material"": ""PVC"",
+    ""thickness"": ""150mm"" 
+    ""dimensions"": ""40x20mm"",
+    ""frame"": ""18 gauge, steel"",
+    ""finish"": ""painted, red oxide""
+  }
+}","{
+  ""item"": ""PVC false ceiling"",
+  ""attributes"": {
+    ""work_type"": ""false ceiling"",
+    ""material"": ""PVC"",
+    ""frame"": ""steel section 40x20 mm, 18 gauge"",
+    ""thickness"": ""150 mm PVC panels"",
+    ""finish"": ""red oxide painted""
+  }
+}",9.0,Correct
+12mm thick plaster grade M25 in cement mortar 1:6 on brick wall with smooth finish.,"{
+  ""item"": ""plaster"",
+  ""attributes"": {
+    ""grade"": ""M25"",
+    ""thickness"": ""12mm"",
+    ""location"": ""brick wall"", 
+    ""mortar_ratio"": ""1:6"",
+    ""finish"": ""smooth""
+  }
+}","{
+  ""item"": ""Plastering work"",
+  ""attributes"": {
+    ""material"": ""cement sand mortar"",
+    ""grade"": ""M25"",
+    ""thickness"": ""12 mm"",
+    ""mix_ratio"": ""1:6"",
+    ""finish"": ""smooth"",
+    ""location"": ""brick wall""
+  }
+}",9.0,Correct
+15mm thick plaster grade M30 in cement mortar 1:4 on concrete wall with sponge finish.,"{
+  ""item"": ""plaster"",
+  ""attributes"": {
+    ""thickness"": ""15mm"",
+    ""grade"": ""M30"",
+    ""location"": ""wall"",
+    ""mix_ratio"": ""1:4"",
+    ""finish"": ""sponge""
+  }
+}","{
+  ""item"": ""plaster"",
+  ""attributes"": {
+    ""material"": ""cement sand mortar"",
+    ""grade"": ""M30"",
+    ""thickness"": ""15 mm"",
+    ""mix_ratio"": ""1:4"",
+    ""finish"": ""sponge finish"",
+    ""location"": ""concrete wall""
+  }
+}",8.0,Partial
+"RCC slab M25 grade, 150mm thick with Fe500 reinforcement, curing 10 days.","{
+  ""item"": ""slab"",
+  ""attributes"": {
+    ""grade"": ""M25"",
+    ""thickness"": ""150mm"",
+    ""reinforcement"": ""Fe500"",
+    ""curing"": ""10 days""
+}
+}","{
+  ""item"": ""RCC slab"",
+  ""attributes"": {
+    ""grade"": ""M25"",
+    ""thickness"": ""150 mm"",
+    ""reinforcement"": ""Fe500 steel"",
+    ""curing"": ""10 days""
+  }
+}",9.0,Correct
+"RCC slab M20 grade, 120mm thick with Fe415 reinforcement, curing 7 days.","{
+  ""item"": ""slab"",
+  ""attributes"": {
+    ""grade"": ""M20"",
+    ""thickness"": ""120mm"",
+    ""reinforcement"": ""Fe5415"",
+    ""curing"": ""7 days""
+}
+}","{
+  ""item"": ""RCC slab"",
+  ""attributes"": {
+    ""grade"": ""M20"",
+    ""thickness"": ""120mm"",
+    ""reinforcement"": ""Fe5415 steel"",
+    ""curing"": ""7 days""
+}
+}",8.0,Partial
